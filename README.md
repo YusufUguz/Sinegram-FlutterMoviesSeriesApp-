@@ -17,6 +17,8 @@ Features:<br />
 :heavy_check_mark: Firebase used for backend and database operations.<br />
 <br />
 :heavy_check_mark: TMDB API used for movies and series data.<br />
+<br />
+:heavy_check_mark: MVVM Architecture used for design pattern.<br />
 
 
 
