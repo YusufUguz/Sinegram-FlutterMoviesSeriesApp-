@@ -26,6 +26,7 @@ Technologies:<br />
 :pushpin: Firebase Authentication<br />
 :pushpin: Firebase Database<br />
 :pushpin: TMDB API<br />
+:pushpin: MVVM Architecture<br />
 :pushpin: Important Packages : firebase_core,firebase_auth,firebase_storage,http<br />
 
 Home Screen<br />
