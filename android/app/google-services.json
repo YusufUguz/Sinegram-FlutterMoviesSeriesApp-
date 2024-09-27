@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "184940264925",
+    "project_id": "sim-44fe1",
+    "storage_bucket": "sim-44fe1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184940264925:android:8d4d9593148f38cf3bca34",
+        "android_client_info": {
+          "package_name": "com.example.movies_and_series_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8t5D16EiToMab4MVvzu8baeY0nMtE7cQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
